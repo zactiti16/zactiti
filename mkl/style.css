@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav > button {
+   margin-right: 30px;
+}
+
+figure {
+    width: 10%;
+}
+figure > img {
+     width: 50%;
+     height: 10%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
